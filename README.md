@@ -1,37 +1,28 @@
 # Beers-and-Rec
-Making a Beer Recommendation System
+Making a Beer Recommendation System using Surprise
+
+# Packages
+Surprise
+Pandas
+Numpy
 
 # Goal
-The goal of this project is to recomend beers to users. I have created a model to predict what beers a user would like.
+The goal of this project is to understand user preferences on beer to recommend the top 3 beers the user would enjoy.
+Implement different recommendation systems to understand which one is the best when predicting using surprise.
 
-# Target 
-The target of the model is to give a user beers based on their ratings and preferences. 
-
-# Predictors 
-The data used for this project is from beeradvocate.com, ratebeer.com, and craftcans.com. 
+# Data Collection
+The Data was taken from two different beer review sites
+Ratebeer.com
+BeerAdvocate.com
+To narrow down the 1.5 Million reviews I opted to only recommend canned beer. Beer Data was obtained from
+CraftCans.com
 
 # Data Cleaning and EDA
 Reviewing and Cleaning has been done in CapProject EDA notebook. 
 EDA Was used to understand the impact of beer features and user features.
 
 # Models
-Baseline model
-Matrix Factorization using SVD
-
-# Results
-Top 5 Beers recomended for user NJpadreFan
-
-1. Hop Crisis
-2. Brooklyn Summer Ale
-3. Big Sky IPA
-4. Pale
-5. Sunshine Wheat Beer
-
-Top 5 Beers recomended for user mdagnew
-
-1. Hop Ottin' IPA
-2. Big Swell IPA
-3. Bikini Blonde Lager
-4. Montana Trout Slayer Ale
-5.Hopworks IPA
+Normal Prediction Model
+Baseline Model
+KNN Baseline Model
 
