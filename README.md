@@ -2,8 +2,11 @@
 Making a Beer Recommendation System using Surprise
 
 # Packages
+
 Surprise
+
 Pandas
+
 Numpy
 
 # Goal
