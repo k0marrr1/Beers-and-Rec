@@ -10,7 +10,7 @@ Pandas
 Numpy
 
 # Goal
-The goal of this project is to understand user preferences on beer to recommend the top 3 beers the user would enjoy.
+The goal of this project is to understand user preferences on beer to recommend the top beer the user would enjoy.
 Implement different recommendation systems to understand which one is the best when predicting using surprise.
 
 # Data Collection
