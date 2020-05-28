@@ -15,9 +15,12 @@ Implement different recommendation systems to understand which one is the best w
 
 # Data Collection
 The Data was taken from two different beer review sites
+https://data.world/socialmediadata/beeradvocate
+
 Ratebeer.com
 BeerAdvocate.com
 To narrow down the 1.5 Million reviews I opted to only recommend canned beer. Beer Data was obtained from
+https://www.kaggle.com/nickhould/craft-cans
 CraftCans.com
 
 # Data Cleaning and EDA
