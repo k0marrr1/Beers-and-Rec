@@ -32,3 +32,5 @@ Normal Prediction Model
 Baseline Model
 KNN Baseline Model
 
+# Presentation Deck
+https://docs.google.com/presentation/d/1mLE3kVNnFHn0o74Lu93g0mtj4W2mwvwKTF0g6KUowNQ/edit#slide=id.p
